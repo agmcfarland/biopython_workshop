@@ -1,0 +1,40 @@
+LOCUS       WP_003102929             398 aa            linear   BCT 11-NOV-2020
+DEFINITION  MULTISPECIES: trans-2-enoyl-CoA reductase family protein
+            [Pseudomonas].
+ACCESSION   WP_003102929
+VERSION     WP_003102929.1
+KEYWORDS    RefSeq.
+SOURCE      Pseudomonas
+  ORGANISM  Pseudomonas
+            Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales;
+            Pseudomonadaceae.
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: Conserved Domain (CDD)
+            Evidence Accession :: Domain architecture ID 11486784
+            Evidence Source    :: NCBI SPARCLE
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..398
+                     /organism="Pseudomonas"
+                     /db_xref="taxon:286"
+     Protein         1..398
+                     /product="trans-2-enoyl-CoA reductase family protein"
+                     /calculated_mol_wt=43397
+     Region          1..396
+                     /region_name="PRK13656"
+                     /note="enoyl-[acyl-carrier-protein] reductase FabV"
+                     /db_xref="CDD:237460"
+ORIGIN      
+        1 miikprvrgf icvtthpagc eanvkqqidy veakgpvvng pkkvlvigss tgyglaarit
+       61 aafgsgadtl gvfferpgse skpgtagwyn saafekfahe kglyarsing dafsdevkrl
+      121 tietikrdlg kvdlvvysla aprrthpksg evfsstlkpi gksvsfrgld tdkevikdvv
+      181 leaasdqeva dtvavmgged wqmwidalle advladgakt taftylgeki thdiywngsi
+      241 gaakkdldqk vlgirdklap lggdarvsvl kavvtqassa ipmmplylsl lfkvmkeqgt
+      301 hegcieqvdg lyreslygae prldeegrlr adykelqpev qsrveelwdk vtnenlyelt
+      361 dfagyksefl nlfgfevagv dyeqdvnpdv qianliqa
+//
