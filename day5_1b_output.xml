@@ -5,7 +5,7 @@
   <BlastOutput_version>BLASTP 2.12.0+</BlastOutput_version>
   <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
   <BlastOutput_db>nr</BlastOutput_db>
-  <BlastOutput_query-ID>Query_39469</BlastOutput_query-ID>
+  <BlastOutput_query-ID>Query_33837</BlastOutput_query-ID>
   <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
   <BlastOutput_query-len>243</BlastOutput_query-len>
   <BlastOutput_param>
@@ -20,7 +20,7 @@
 <BlastOutput_iterations>
 <Iteration>
   <Iteration_iter-num>1</Iteration_iter-num>
-  <Iteration_query-ID>Query_39469</Iteration_query-ID>
+  <Iteration_query-ID>Query_33837</Iteration_query-ID>
   <Iteration_query-def>unnamed protein product</Iteration_query-def>
   <Iteration_query-len>243</Iteration_query-len>
 <Iteration_hits>
@@ -35,7 +35,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>497.278</Hsp_bit-score>
       <Hsp_score>1279</Hsp_score>
-      <Hsp_evalue>2.46056e-177</Hsp_evalue>
+      <Hsp_evalue>2.46333e-177</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>243</Hsp_query-to>
       <Hsp_hit-from>5</Hsp_hit-from>
@@ -63,7 +63,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>497.664</Hsp_bit-score>
       <Hsp_score>1280</Hsp_score>
-      <Hsp_evalue>2.53624e-177</Hsp_evalue>
+      <Hsp_evalue>2.5391e-177</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>243</Hsp_query-to>
       <Hsp_hit-from>22</Hsp_hit-from>
@@ -91,7 +91,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>496.508</Hsp_bit-score>
       <Hsp_score>1277</Hsp_score>
-      <Hsp_evalue>3.6379e-177</Hsp_evalue>
+      <Hsp_evalue>3.642e-177</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>243</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -119,7 +119,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>496.508</Hsp_bit-score>
       <Hsp_score>1277</Hsp_score>
-      <Hsp_evalue>3.81535e-177</Hsp_evalue>
+      <Hsp_evalue>3.81965e-177</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>243</Hsp_query-to>
       <Hsp_hit-from>2</Hsp_hit-from>
@@ -136,39 +136,11 @@
     </Hsp>
   </Hit_hsps>
 </Hit>
-<Hit>
-  <Hit_num>5</Hit_num>
-  <Hit_id>emb|CAC5857653.1|</Hit_id>
-  <Hit_def>rRNA adenine N-6-methyltransferase [Staphylococcus aureus]</Hit_def>
-  <Hit_accession>CAC5857653</Hit_accession>
-  <Hit_len>264</Hit_len>
-  <Hit_hsps>
-    <Hsp>
-      <Hsp_num>1</Hsp_num>
-      <Hsp_bit-score>496.893</Hsp_bit-score>
-      <Hsp_score>1278</Hsp_score>
-      <Hsp_evalue>5.83819e-177</Hsp_evalue>
-      <Hsp_query-from>1</Hsp_query-from>
-      <Hsp_query-to>243</Hsp_query-to>
-      <Hsp_hit-from>22</Hsp_hit-from>
-      <Hsp_hit-to>264</Hsp_hit-to>
-      <Hsp_query-frame>0</Hsp_query-frame>
-      <Hsp_hit-frame>0</Hsp_hit-frame>
-      <Hsp_identity>243</Hsp_identity>
-      <Hsp_positive>243</Hsp_positive>
-      <Hsp_gaps>0</Hsp_gaps>
-      <Hsp_align-len>243</Hsp_align-len>
-      <Hsp_qseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_qseq>
-      <Hsp_hseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_hseq>
-      <Hsp_midline>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_midline>
-    </Hsp>
-  </Hit_hsps>
-</Hit>
 </Iteration_hits>
   <Iteration_stat>
     <Statistics>
-      <Statistics_db-num>412759411</Statistics_db-num>
-      <Statistics_db-len>150138679036</Statistics_db-len>
+      <Statistics_db-num>413113492</Statistics_db-num>
+      <Statistics_db-len>150307884853</Statistics_db-len>
       <Statistics_hsp-len>0</Statistics_hsp-len>
       <Statistics_eff-space>0</Statistics_eff-space>
       <Statistics_kappa>0.041</Statistics_kappa>
