@@ -1,13 +1,15 @@
 # Biopython: Work with biological sequence data in Python
  
-Welcome to the workshop! We will learn how to use Biopython for sequence manipulation, filtering, writing, and BLASTing!
+Welcome to this Biopython workshop! 
+
+We will learn how to use Biopython for sequence manipulation, filtering, writing, and BLASTing!
 
 
 # Running workshop code
 
 There are three options to run the workshop code:
 
-1. Click on the desired workshop day link in the [files section](##files)
+1. Click on the desired workshop day link in the [files section](#Files)
 
 2. Open the main github directory in [google colab](https://colab.research.google.com/github/agmcfarland/biopython_workshop/blob/main/) and select the notebook (.ipynb) you wish to run. 
 
