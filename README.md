@@ -100,4 +100,4 @@ Examples of biological sequence data types and how Biopython reads them. Useful 
 
 [Northwestern University Information Technology Research Computing Services](https://github.com/nuitrcs)
 
-Special thanks to (Colby Witherup Wood)[https://github.com/aGitHasNoName] for their assistance
+Special thanks to [Colby Witherup Wood](https://github.com/aGitHasNoName) for their assistance
