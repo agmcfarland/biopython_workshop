@@ -13,7 +13,7 @@ There are three options to run the workshop code:
 
 2. Open the main github directory in [google colab](https://colab.research.google.com/github/agmcfarland/biopython_workshop/blob/main/) and select the notebook (.ipynb) you wish to run. 
 
-3. click on the green Code button and choose Download Zip, unzip the folder on your computer, open Jupyter Lab (through Anaconda Navigator or the command line), navigate to the folder you just downloaded, and open the appropriate notebook.
+3. Click on the green Code button and choose Download Zip, unzip the folder on your computer, open Jupyter Lab (through Anaconda Navigator or the command line), navigate to the folder you just downloaded, and open the appropriate notebook.
 
 
 # Lesson overview 
@@ -36,7 +36,7 @@ In the main directory you will find lesson notebooks, answer notebooks, example 
 
 ## Lesson Notebooks
 
-There are five jupyter notebooks, one for each day
+There are five jupyter notebooks, one for each day, with lessons and questions.
 
 1. [Lesson Day 1](https://colab.research.google.com/github/agmcfarland/biopython_workshop/blob/main/day_1.ipynb)
 
@@ -51,7 +51,7 @@ There are five jupyter notebooks, one for each day
 
 ## Answer Notebooks
 
-There are five jupyter notebooks, one for each day, with the **answers** to all the exercises in the lessons
+There are five jupyter notebooks, one for each day, with the **answers** to all the exercises in the lessons.
 
 1. [Answers Day 1](https://colab.research.google.com/github/agmcfarland/biopython_workshop/blob/main/answers_day_1.ipynb)
 
