@@ -1,6 +1,6 @@
 # Biopython: Work with biological sequence data in Python
 
-<img src="http://biopython.org/assets/images/biopython_logo.svg" alt="logo" width=1000>
+<img src="http://biopython.org/assets/images/biopython_logo.svg" alt="logo" width=500 height=500>
  
 Welcome to this Biopython workshop! 
 
