@@ -70,7 +70,7 @@ There are five jupyter notebooks, one for each day, with the **answers** to all 
 
 ## Data
 
-Different data files of extension .fasta, .gbk, and .xml
+Different data files of extension .fasta, .fastq, .gbk, and .xml
 
 # Biological sequence data types
 
