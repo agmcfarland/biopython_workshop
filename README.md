@@ -1,10 +1,11 @@
 # Biopython: Work with biological sequence data in Python
 
-<img src="http://biopython.org/assets/images/biopython_logo.svg" alt="logo" width=500 height=500>
- 
 Welcome to this Biopython workshop! 
 
 We will learn how to use Biopython for sequence manipulation, filtering, writing, and BLASTing!
+
+
+<img src="http://biopython.org/assets/images/biopython_logo.svg" alt="logo" width=500 height=500>
 
 
 # Running workshop code
