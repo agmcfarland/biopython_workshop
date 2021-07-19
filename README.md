@@ -72,25 +72,25 @@ There are five jupyter notebooks, one for each day, with the **answers** to all 
 
 Different data files of extension .fasta, .gbk, and .xml
 
-## Annotated images
+# Biological sequence data types
 
 Examples of biological sequence data types and how Biopython reads them. Useful companion for lessons.
 
-### Fasta
+## Fasta
 
 <img src="images/fasta.png" alt="fasta" width=1000>
 
 
-### Fastq
+## Fastq
 
 <img src="images/fastq.png" alt="fastq" width=1000>
 
 
-### GenBank
+## GenBank
 
 <img src="images/gbk.png" alt="gbk" width=1000>
 
-### BLAST
+## BLAST
 
 <img src="images/blast.png" alt="blast" width=1000>
 
