@@ -29,7 +29,7 @@ There are three options to run the workshop code:
 
 4. Thursday – Extracting and storing sequence data, working with GenBank files
 
-5. Friday – BLAST and converting between file types
+5. Friday – BLAST-ing against the NCBI database
 
 
 
