@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.12.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_20299</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>243</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_20299</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>243</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gb|ETJ08129.1|</Hit_id>
+  <Hit_def>rRNA adenine N-6-methyltransferase, partial [Streptococcus parasanguinis DORA_23_24]</Hit_def>
+  <Hit_accession>ETJ08129</Hit_accession>
+  <Hit_len>247</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>497.278</Hsp_bit-score>
+      <Hsp_score>1279</Hsp_score>
+      <Hsp_evalue>2.47923e-177</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>243</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>247</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_qseq>
+      <Hsp_hseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_hseq>
+      <Hsp_midline>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gb|EXM57106.1|</Hit_id>
+  <Hit_def>rRNA adenine N-6-methyltransferase [Staphylococcus aureus DAR133]</Hit_def>
+  <Hit_accession>EXM57106</Hit_accession>
+  <Hit_len>264</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>497.664</Hsp_bit-score>
+      <Hsp_score>1280</Hsp_score>
+      <Hsp_evalue>2.55549e-177</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>243</Hsp_query-to>
+      <Hsp_hit-from>22</Hsp_hit-from>
+      <Hsp_hit-to>264</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_qseq>
+      <Hsp_hseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_hseq>
+      <Hsp_midline>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_001072201.1|</Hit_id>
+  <Hit_def>MULTISPECIES: 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A) [Bacilli] &gt;sp|P0A0H1.1| RecName: Full=rRNA adenine N-6-methyltransferase; AltName: Full=Erythromycin resistance protein; AltName: Full=Macrolide-lincosamide-streptogramin B resistance protein [Staphylococcus aureus subsp. aureus Mu50] &gt;sp|P0A0H2.1| RecName: Full=rRNA adenine N-6-methyltransferase; AltName: Full=Erythromycin resistance protein; AltName: Full=Macrolide-lincosamide-streptogramin B resistance protein [Staphylococcus aureus subsp. aureus N315] &gt;sp|P0A0H3.1| RecName: Full=rRNA adenine N-6-methyltransferase; AltName: Full=Erythromycin resistance protein; AltName: Full=Macrolide-lincosamide-streptogramin B resistance protein [Staphylococcus aureus] &gt;sp|Q6GKQ0.1| RecName: Full=rRNA adenine N-6-methyltransferase; AltName: Full=Erythromycin resistance protein; AltName: Full=Macrolide-lincosamide-streptogramin B resistance protein [Staphylococcus aureus subsp. aureus MRSA252] &gt;gb|EGO8568860.1| 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A) [Enterococcus faecalis] &gt;gb|EGP5183003.1| 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A) [Enterococcus hirae] &gt;gb|EHS14301.1| rRNA adenine N-6-methyltransferase [Staphylococcus aureus subsp. aureus IS-99] &gt;gb|EHS72760.1| rRNA adenine N-6-methyltransferase [Staphylococcus aureus subsp. aureus IS-125] &gt;gb|EHS75181.1| rRNA adenine N-6-methyltransferase [Staphylococcus aureus subsp. aureus IS-189] &gt;gb|ENK62286.1| rRNA adenine N-6-methyltransferase [Staphylococcus aureus M0562] &gt;gb|EUY42749.1| rRNA adenine N-6-methyltransferase [Staphylococcus aureus M0406] &gt;gb|MBD4026367.1| 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A) [Staphylococcus aureus] &gt;emb|CBA13539.1| adenine methylase [Staphylococcus rostri] &gt;emb|CBY88979.1| rRNA methylase [Staphylococcus aureus subsp. aureus ST398] &gt;tpg|HAR4218314.1| 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A) [Staphylococcus aureus ADL-227] &gt;tpg|HAR4232287.1| 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A) [Staphylococcus aureus ADL-331] &gt;tpg|HAR4238652.1| 23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(A) [Staphylococcus aureus ADL-330]</Hit_def>
+  <Hit_accession>WP_001072201</Hit_accession>
+  <Hit_len>243</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>496.508</Hsp_bit-score>
+      <Hsp_score>1277</Hsp_score>
+      <Hsp_evalue>3.6655e-177</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>243</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>243</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_qseq>
+      <Hsp_hseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_hseq>
+      <Hsp_midline>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|ALY18984.1|</Hit_id>
+  <Hit_def>rRNA adenine N-6-methyltransferase [Staphylococcus aureus] &gt;gb|EUQ74542.1| rRNA adenine N-6-methyltransferase [Staphylococcus aureus FVRH6001]</Hit_def>
+  <Hit_accession>ALY18984</Hit_accession>
+  <Hit_len>244</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>496.508</Hsp_bit-score>
+      <Hsp_score>1277</Hsp_score>
+      <Hsp_evalue>3.8443e-177</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>243</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>244</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>243</Hsp_identity>
+      <Hsp_positive>243</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>243</Hsp_align-len>
+      <Hsp_qseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_qseq>
+      <Hsp_hseq>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_hseq>
+      <Hsp_midline>MNQKNPKDTQNFITSKKHVKEILNHTNISKQDNVIEIGSGKGHFTKELVKMSRSVTAIEIDGGLCQVTKEAVNPSENIKVIQTDILKFSFPKHINYKIYGNIPYNISTDIVKRITFESQAKYSYLIVEKGFAKRLQNLQRALGLLLMVEMDIKMLKKVPPLYFHPKPSVDSVLIVLERHQPLISKKDYKKYRSFVYKWVNREYRVLFTKNQFRQALKHANVTNINKLSKEQFLSIFNSYKLFH</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>415939722</Statistics_db-num>
+      <Statistics_db-len>953964019</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
