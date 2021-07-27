@@ -21,15 +21,15 @@ There are three options to run the workshop code:
 
 # Lesson overview 
 
-1. Monday – Introduction to strings, Biopython, and Biopython sequences
+1. Day 1 – Introduction to strings, Biopython, and Biopython sequences
 
-2. Tuesday – Opening, closing, and saving sequence files with Biopython
+2. Day 2 – Opening, closing, and saving sequence files with Biopython
 
-3. Wednesday – More sequence modification and data extraction
+3. Day 3 – More sequence modification and data extraction
 
-4. Thursday – Extracting and storing sequence data, working with GenBank files
+4. Day 4 – Extracting and storing sequence data, working with GenBank files
 
-5. Friday – BLAST-ing against the NCBI database
+5. Day 5 – BLAST-ing against the NCBI database
 
 
 
