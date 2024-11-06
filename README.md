@@ -99,7 +99,7 @@ Examples of biological sequence data types and how Biopython reads them. Useful 
 
 # Credit and references
 
-[Alexander McFarland](https://twitter.com/alexmcfarland_)
+[Alexander McFarland](https://www.linkedin.com/in/alexandergmcfarland/)
 
 [Biopython](https://biopython.org/)
 
